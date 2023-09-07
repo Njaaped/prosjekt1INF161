@@ -1,0 +1,21 @@
+
+
+1.
+få tilbake manglende data....
+
+
+Data som skal brukes i analysjonen:
+
+dag
+tid
+vår (med start av sommer)
+sommer (fellesferie)
+høst (med slutt av sommer)
+vinter
+med/uten vær
+
+
+
+
+
+
